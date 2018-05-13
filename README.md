@@ -1,5 +1,7 @@
 # CSCA48 Summer 2018
 
+Course Website: https://mathlab.utsc.utoronto.ca/courses/csca48/
+
 ## TA Info
 Name: Mohammad Moustafa
 
