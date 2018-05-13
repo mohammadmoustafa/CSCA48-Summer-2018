@@ -16,4 +16,4 @@ I do not have any office hours. If you need help, you should first check to see 
 
 ## Material
 
-* (https://github.com/mohammadmoustafa/CSCA48-Summer-2018/tree/master/Week2)[Week 2 - ADTs]
+* [Week 2 - ADTs](https://github.com/mohammadmoustafa/CSCA48-Summer-2018/tree/master/Week2)
