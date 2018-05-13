@@ -2,11 +2,8 @@
 
 ## TA Info
 Name: Mohammad Moustafa
-
 Email: mohammad.moustafa@mail.utoronto.ca
-
 Tutorial Time: TBA
-
 Practical Time: TBA
 
 
