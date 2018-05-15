@@ -7,9 +7,11 @@ Name: Mohammad Moustafa
 
 Email: mohammad.moustafa@mail.utoronto.ca
 
-Tutorial Time: TBA
+Tutorial Time(s): Tuesdays 12-1pm in BV355 & Tuesdays 3-4pm in IC320
 
-Practical Time: TBA
+Practical Time: N/A
+
+I will also be around during the inverted lecture on Wednesdays from 12-1pm
 
 
 ### Office Hours
