@@ -54,3 +54,29 @@ class Bucket(Container):
         except:
             raise ContainerEmptyException
         return item
+
+
+class Deque(Container):
+
+    def left_enqueue(self, item):
+        temp = self._container[:]
+        self._container = [item] + temp
+        return None
+
+    def right_enqueue(self, item):
+        self._container.append(item)
+        return None
+
+    def left_dequeue(self):
+        try:
+            item = self._container.pop(0)
+        except:
+            raise ContainerEmptyException
+        return item
+
+    def right_dequeue(self):
+        try:
+            item = self._container.pop(-1)
+        except:
+            raise ContainerEmptyException
+        return item
