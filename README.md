@@ -23,3 +23,4 @@ I do not have any office hours. If you need help, you should first check to see 
 * [Week 2 - ADTs](https://github.com/mohammadmoustafa/CSCA48-Summer-2018/tree/master/Week2)
 * [Week 3 - Abstract Classes & Solving Problems With ADTs](https://github.com/mohammadmoustafa/CSCA48-Summer-2018/tree/master/Week3)
 * Week 4 - Deque
+* Week 5 - Traversing and Working with Linked Lists
